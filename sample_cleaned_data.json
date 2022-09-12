@@ -1,0 +1,1091 @@
+[
+  {
+    "id": "149715690143449899009",
+    "objectType": "activity",
+    "actor": {
+      "objectType": "person",
+      "id": "10243188921458",
+      "link": "http://www.twitter.com/losebabyweight1",
+      "displayName": "losebabyweight",
+      "postedTime": "2010-09-09T22:40:10.000Z",
+      "image": "https://pbs.twimg.com/profile_images/522696965503455233/WfF2aJ7N_normal.png",
+      "summary": "http://www.losebabyweight.com.au offers mums safe and proven plans to lose weight. Lose an average of 1kg a week.",
+      "links": [
+        {
+          "href": "http://www.losebabyweight.com.au",
+          "rel": "me"
+        }
+      ],
+      "friendsCount": 218,
+      "followersCount": 1960,
+      "listedCount": 17,
+      "statusesCount": 14439,
+      "twitterTimeZone": "Sydney",
+      "verified": false,
+      "utcOffset": "39600",
+      "preferredUsername": "losebabyweight1",
+      "languages": [
+        "en"
+      ],
+      "location": {
+        "objectType": "place",
+        "displayName": "Australia"
+      },
+      "favoritesCount": 0
+    },
+    "verb": "post",
+    "postedTime": "2016-04-01T00:00:01.000Z",
+    "generator": {
+      "displayName": "Facebook",
+      "link": "http://www.facebook.com/twitter"
+    },
+    "provider": {
+      "objectType": "service",
+      "displayName": "Twitter",
+      "link": "http://www.twitter.com"
+    },
+    "link": "http://twitter.com/losebabyweight1/statuses/715690143449899009",
+    "text": "CONGRATULATIONS Suzie Walker on both your beautiful little man and your FANTASTIC commitment and hard work. You... https://t.co/m4QLVq0BTr",
+    "object": {
+      "objectType": "note",
+      "id": "1345715690143449899009",
+      "summary": "CONGRATULATIONS Suzie Walker on both your beautiful little man and your FANTASTIC commitment and hard work. You... https://t.co/m4QLVq0BTr",
+      "link": "http://twitter.com/losebabyweight1/statuses/715690143449899009",
+      "postedTime": "2016-04-01T00:00:01.000Z"
+    },
+    "favoritesCount": 0,
+    "twitter_entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/m4QLVq0BTr",
+          "expanded_url": "http://fb.me/WUTD9TnQ",
+          "display_url": "fb.me/WUTD9TnQ",
+          "indices": [
+            115,
+            138
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "twitter_filter_level": "low",
+    "twitter_lang": "en",
+    "retweetCount": 0,
+    "gnip": {
+      "matching_rules": [
+        {
+          "value": "bio_location: \"Australia\"",
+          "tag": null
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/m4QLVq0BTr",
+          "expanded_url": "https://www.facebook.com/photo.php?fbid=1257229527624685",
+          "expanded_status": 403
+        }
+      ],
+      "klout_score": 44,
+      "language": {
+        "value": "en"
+      },
+      "profileLocations": [
+        {
+          "objectType": "place",
+          "geo": {
+            "type": "point",
+            "coordinates": [
+              135,
+              -25
+            ]
+          },
+          "address": {
+            "country": "Australia",
+            "countryCode": "AU"
+          },
+          "displayName": "Australia"
+        }
+      ]
+    }
+  },
+  {
+    "id": "149715690141306650624",
+    "objectType": "activity",
+    "actor": {
+      "objectType": "person",
+      "id": "1024397578801",
+      "link": "http://www.twitter.com/wantirnaweather",
+      "displayName": "Wantirna Weather",
+      "postedTime": "2009-12-18T02:34:57.000Z",
+      "image": "https://pbs.twimg.com/profile_images/580069194/Eclipse_003vsm_normal.jpg",
+      "summary": "Personal Weather Station from Wantirna, Victoria, Australia.",
+      "links": [
+        {
+          "href": "http://www.vic-weather.info",
+          "rel": "me"
+        }
+      ],
+      "friendsCount": 28,
+      "followersCount": 80,
+      "listedCount": 12,
+      "statusesCount": 66248,
+      "twitterTimeZone": "Melbourne",
+      "verified": false,
+      "utcOffset": "39600",
+      "preferredUsername": "wantirnaweather",
+      "languages": [
+        "en"
+      ],
+      "location": {
+        "objectType": "place",
+        "displayName": "Victoria, Australia"
+      },
+      "favoritesCount": 1
+    },
+    "verb": "post",
+    "postedTime": "2016-04-01T00:00:01.000Z",
+    "generator": {
+      "displayName": "Weather Display Tweet",
+      "link": "http://www.weather-display.com"
+    },
+    "provider": {
+      "objectType": "service",
+      "displayName": "Twitter",
+      "link": "http://www.twitter.com"
+    },
+    "link": "http://twitter.com/wantirnaweather/statuses/715690141306650624",
+    "text": "Wantirna, VIC, AU 11:00 AM Temp 19.8°C, RH 67pct, Winds NNW @ 0.0 km/h, Rain Today  0 mm, 1014.3 hpa &amp; Steady. #vicweather",
+    "object": {
+      "objectType": "note",
+      "id": "1345715690141306650624",
+      "summary": "Wantirna, VIC, AU 11:00 AM Temp 19.8°C, RH 67pct, Winds NNW @ 0.0 km/h, Rain Today  0 mm, 1014.3 hpa &amp; Steady. #vicweather",
+      "link": "http://twitter.com/wantirnaweather/statuses/715690141306650624",
+      "postedTime": "2016-04-01T00:00:01.000Z"
+    },
+    "favoritesCount": 0,
+    "twitter_entities": {
+      "hashtags": [
+        {
+          "text": "vicweather",
+          "indices": [
+            115,
+            126
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [],
+      "symbols": []
+    },
+    "twitter_filter_level": "low",
+    "twitter_lang": "en",
+    "retweetCount": 0,
+    "gnip": {
+      "matching_rules": [
+        {
+          "value": "bio_location: \"Australia\"",
+          "tag": null
+        }
+      ],
+      "klout_score": 28,
+      "language": {
+        "value": "en"
+      },
+      "profileLocations": [
+        {
+          "objectType": "place",
+          "geo": {
+            "type": "point",
+            "coordinates": [
+              145,
+              -37
+            ]
+          },
+          "address": {
+            "country": "Australia",
+            "countryCode": "AU",
+            "region": "Victoria"
+          },
+          "displayName": "Victoria, Australia"
+        }
+      ]
+    }
+  },
+  {
+    "id": "149715690140849586178",
+    "objectType": "activity",
+    "actor": {
+      "objectType": "person",
+      "id": "10243126525057",
+      "link": "http://www.twitter.com/sas_anz",
+      "displayName": "SAS Australia and NZ",
+      "postedTime": "2010-03-26T04:15:45.000Z",
+      "image": "https://pbs.twimg.com/profile_images/663481722357477376/qKgaXF-B_normal.jpg",
+      "summary": "Keep up to date with SAS Australia and New Zealand, the leader in business #analytics software & services. http://www.sas.com/au http://www.sas.com/nz #SASanz",
+      "links": [
+        {
+          "href": null,
+          "rel": "me"
+        }
+      ],
+      "friendsCount": 1080,
+      "followersCount": 1523,
+      "listedCount": 233,
+      "statusesCount": 3264,
+      "twitterTimeZone": "Sydney",
+      "verified": false,
+      "utcOffset": "39600",
+      "preferredUsername": "sas_anz",
+      "languages": [
+        "en"
+      ],
+      "location": {
+        "objectType": "place",
+        "displayName": "Australia and New Zealand"
+      },
+      "favoritesCount": 654
+    },
+    "verb": "post",
+    "postedTime": "2016-04-01T00:00:01.000Z",
+    "generator": {
+      "displayName": "Sprinklr",
+      "link": "http://www.sprinklr.com"
+    },
+    "provider": {
+      "objectType": "service",
+      "displayName": "Twitter",
+      "link": "http://www.twitter.com"
+    },
+    "link": "http://twitter.com/sas_anz/statuses/715690140849586178",
+    "text": "Join us @ the Hilton Sydney 2 learn how 2 make analytics pervasive across yr organisation https://t.co/xGO7cZy9yU https://t.co/otxAeyMHMV",
+    "object": {
+      "objectType": "note",
+      "id": "1345715690140849586178",
+      "summary": "Join us @ the Hilton Sydney 2 learn how 2 make analytics pervasive across yr organisation https://t.co/xGO7cZy9yU https://t.co/otxAeyMHMV",
+      "link": "http://twitter.com/sas_anz/statuses/715690140849586178",
+      "postedTime": "2016-04-01T00:00:01.000Z"
+    },
+    "favoritesCount": 0,
+    "twitter_entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/xGO7cZy9yU",
+          "expanded_url": "http://bit.ly/1Thojq6",
+          "display_url": "bit.ly/1Thojq6",
+          "indices": [
+            90,
+            113
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "symbols": [],
+      "media": [
+        {
+          "id_str": "715690140442734594",
+          "indices": [
+            114,
+            137
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ce6kZA5WsAIbIQ_.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ce6kZA5WsAIbIQ_.jpg",
+          "url": "https://t.co/otxAeyMHMV",
+          "display_url": "pic.twitter.com/otxAeyMHMV",
+          "expanded_url": "http://twitter.com/sas_anz/status/715690140849586178/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 656,
+              "h": 596,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 545,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 309,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "twitter_extended_entities": {
+      "media": [
+        {
+          "id_str": "715690140442734594",
+          "indices": [
+            114,
+            137
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ce6kZA5WsAIbIQ_.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ce6kZA5WsAIbIQ_.jpg",
+          "url": "https://t.co/otxAeyMHMV",
+          "display_url": "pic.twitter.com/otxAeyMHMV",
+          "expanded_url": "http://twitter.com/sas_anz/status/715690140849586178/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 656,
+              "h": 596,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 600,
+              "h": 545,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 309,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "twitter_filter_level": "low",
+    "twitter_lang": "en",
+    "retweetCount": 0,
+    "gnip": {
+      "matching_rules": [
+        {
+          "value": "bio_location: \"Australia\"",
+          "tag": null
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/otxAeyMHMV",
+          "expanded_url": "http://twitter.com/sas_anz/status/715690140849586178/photo/1",
+          "expanded_status": 200
+        },
+        {
+          "url": "https://t.co/xGO7cZy9yU",
+          "expanded_url": "http://www.cloudera.com/about-cloudera/events/sessions/sydney.html",
+          "expanded_status": 200
+        }
+      ],
+      "klout_score": 51,
+      "language": {
+        "value": "en"
+      },
+      "profileLocations": [
+        {
+          "objectType": "place",
+          "geo": {
+            "type": "point",
+            "coordinates": [
+              174,
+              -42
+            ]
+          },
+          "address": {
+            "country": "New Zealand",
+            "countryCode": "NZ"
+          },
+          "displayName": "New Zealand"
+        }
+      ]
+    }
+  },
+  {
+    "id": "149715690158360760324",
+    "objectType": "activity",
+    "actor": {
+      "objectType": "person",
+      "id": "10243212122380",
+      "link": "http://www.twitter.com/ESPNAusNZ",
+      "displayName": "ESPN Australia & NZ",
+      "postedTime": "2010-11-05T05:46:51.000Z",
+      "image": "https://pbs.twimg.com/profile_images/483406822351441921/NyJjfRY__normal.png",
+      "summary": "The official twitter account for ESPN Australia & NZ.                           \nWe are crazy about sport. Instagram: ESPNAusNZ",
+      "links": [
+        {
+          "href": "https://www.facebook.com/ESPNAusNZ",
+          "rel": "me"
+        }
+      ],
+      "friendsCount": 3013,
+      "followersCount": 24751,
+      "listedCount": 170,
+      "statusesCount": 9197,
+      "twitterTimeZone": "Sydney",
+      "verified": true,
+      "utcOffset": "39600",
+      "preferredUsername": "ESPNAusNZ",
+      "languages": [
+        "en"
+      ],
+      "location": {
+        "objectType": "place",
+        "displayName": "Australia"
+      },
+      "favoritesCount": 1223
+    },
+    "verb": "share",
+    "postedTime": "2016-04-01T00:00:05.000Z",
+    "generator": {
+      "displayName": "TweetDeck",
+      "link": "https://about.twitter.com/products/tweetdeck"
+    },
+    "provider": {
+      "objectType": "service",
+      "displayName": "Twitter",
+      "link": "http://www.twitter.com"
+    },
+    "link": "http://twitter.com/ESPNAusNZ/statuses/715690158360760324",
+    "text": "RT @ESPNGolf: From now until @TheMasters week, vote for the most memorable Masters of the past 30 years. Bubba/’12 vs. Spieth/’15 https://t…",
+    "object": {
+      "id": "149715687262198054914",
+      "objectType": "activity",
+      "actor": {
+        "objectType": "person",
+        "id": "1024371022075",
+        "link": "http://www.twitter.com/ESPNGolf",
+        "displayName": "ESPN Golf",
+        "postedTime": "2009-09-02T17:30:47.000Z",
+        "image": "https://pbs.twimg.com/profile_images/674388250706882560/WhWysWpE_normal.jpg",
+        "summary": null,
+        "links": [
+          {
+            "href": "http://espn.go.com/golf/index",
+            "rel": "me"
+          }
+        ],
+        "friendsCount": 1380,
+        "followersCount": 165076,
+        "listedCount": 1949,
+        "statusesCount": 16052,
+        "twitterTimeZone": "Eastern Time (US & Canada)",
+        "verified": false,
+        "utcOffset": "-14400",
+        "preferredUsername": "ESPNGolf",
+        "languages": [
+          "en"
+        ],
+        "location": {
+          "objectType": "place",
+          "displayName": "Bristol, CT"
+        },
+        "favoritesCount": 10
+      },
+      "verb": "post",
+      "postedTime": "2016-03-31T23:48:34.000Z",
+      "generator": {
+        "displayName": "Twitter Web Client",
+        "link": "http://twitter.com"
+      },
+      "provider": {
+        "objectType": "service",
+        "displayName": "Twitter",
+        "link": "http://www.twitter.com"
+      },
+      "link": "http://twitter.com/ESPNGolf/statuses/715687262198054914",
+      "text": "From now until @TheMasters week, vote for the most memorable Masters of the past 30 years. Bubba/’12 vs. Spieth/’15 https://t.co/vMHu3xc6tT",
+      "object": {
+        "objectType": "note",
+        "id": "1345715687262198054914",
+        "summary": "From now until @TheMasters week, vote for the most memorable Masters of the past 30 years. Bubba/’12 vs. Spieth/’15 https://t.co/vMHu3xc6tT",
+        "link": "http://twitter.com/ESPNGolf/statuses/715687262198054914",
+        "postedTime": "2016-03-31T23:48:34.000Z"
+      },
+      "inReplyTo": {
+        "link": "http://twitter.com/ESPNGolf/statuses/715687168962871296"
+      },
+      "favoritesCount": 4,
+      "twitter_entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "screen_name": "TheMasters",
+            "name": "Masters Tournament",
+            "id": 23505298,
+            "id_str": "23505298",
+            "indices": [
+              15,
+              26
+            ]
+          }
+        ],
+        "symbols": [],
+        "media": [
+          {
+            "id_str": "715687261673758721",
+            "indices": [
+              116,
+              139
+            ],
+            "media_url": "http://pbs.twimg.com/media/Ce6hxcpWIAEE7x8.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Ce6hxcpWIAEE7x8.jpg",
+            "url": "https://t.co/vMHu3xc6tT",
+            "display_url": "pic.twitter.com/vMHu3xc6tT",
+            "expanded_url": "http://twitter.com/ESPNGolf/status/715687262198054914/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 576,
+                "h": 324,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 576,
+                "h": 324,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 191,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "twitter_extended_entities": {
+        "media": [
+          {
+            "id_str": "715687261673758721",
+            "indices": [
+              116,
+              139
+            ],
+            "media_url": "http://pbs.twimg.com/media/Ce6hxcpWIAEE7x8.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Ce6hxcpWIAEE7x8.jpg",
+            "url": "https://t.co/vMHu3xc6tT",
+            "display_url": "pic.twitter.com/vMHu3xc6tT",
+            "expanded_url": "http://twitter.com/ESPNGolf/status/715687262198054914/photo/1",
+            "type": "photo",
+            "sizes": {
+              "medium": {
+                "w": 576,
+                "h": 324,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 576,
+                "h": 324,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "small": {
+                "w": 340,
+                "h": 191,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "twitter_filter_level": "low",
+      "twitter_lang": "en"
+    },
+    "favoritesCount": 0,
+    "twitter_entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "screen_name": "ESPNGolf",
+          "name": "ESPN Golf",
+          "id": 71022075,
+          "id_str": "71022075",
+          "indices": [
+            3,
+            12
+          ]
+        },
+        {
+          "screen_name": "TheMasters",
+          "name": "Masters Tournament",
+          "id": 23505298,
+          "id_str": "23505298",
+          "indices": [
+            29,
+            40
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "id_str": "715687261673758721",
+          "indices": [
+            139,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ce6hxcpWIAEE7x8.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ce6hxcpWIAEE7x8.jpg",
+          "url": "https://t.co/vMHu3xc6tT",
+          "display_url": "pic.twitter.com/vMHu3xc6tT",
+          "expanded_url": "http://twitter.com/ESPNGolf/status/715687262198054914/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 576,
+              "h": 324,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 576,
+              "h": 324,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 191,
+              "resize": "fit"
+            }
+          },
+          "source_status_id_str": "715687262198054914",
+          "source_user_id": 71022075,
+          "source_user_id_str": "71022075"
+        }
+      ]
+    },
+    "twitter_extended_entities": {
+      "media": [
+        {
+          "id_str": "715687261673758721",
+          "indices": [
+            139,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ce6hxcpWIAEE7x8.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ce6hxcpWIAEE7x8.jpg",
+          "url": "https://t.co/vMHu3xc6tT",
+          "display_url": "pic.twitter.com/vMHu3xc6tT",
+          "expanded_url": "http://twitter.com/ESPNGolf/status/715687262198054914/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 576,
+              "h": 324,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 576,
+              "h": 324,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 191,
+              "resize": "fit"
+            }
+          },
+          "source_status_id_str": "715687262198054914",
+          "source_user_id": 71022075,
+          "source_user_id_str": "71022075"
+        }
+      ]
+    },
+    "twitter_filter_level": "low",
+    "twitter_lang": "en",
+    "retweetCount": 3,
+    "gnip": {
+      "matching_rules": [
+        {
+          "value": "bio_location: \"Australia\"",
+          "tag": null
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/vMHu3xc6tT",
+          "expanded_url": "http://twitter.com/ESPNGolf/status/715687262198054914/photo/1",
+          "expanded_status": 200
+        }
+      ],
+      "klout_score": 57,
+      "language": {
+        "value": "en"
+      },
+      "profileLocations": [
+        {
+          "objectType": "place",
+          "geo": {
+            "type": "point",
+            "coordinates": [
+              135,
+              -25
+            ]
+          },
+          "address": {
+            "country": "Australia",
+            "countryCode": "AU"
+          },
+          "displayName": "Australia"
+        }
+      ]
+    }
+  },
+  {
+    "id": "149715690217877835776",
+    "objectType": "activity",
+    "actor": {
+      "objectType": "person",
+      "id": "102432313341894",
+      "link": "http://www.twitter.com/amagickeagle999",
+      "displayName": "amagickeagle999",
+      "postedTime": "2014-01-27T09:30:13.000Z",
+      "image": "https://pbs.twimg.com/profile_images/427738482442653696/e4HDKaj5_normal.jpeg",
+      "summary": "Being apolitical in a democracy is like being a climber that isn't interested in rope..",
+      "links": [
+        {
+          "href": null,
+          "rel": "me"
+        }
+      ],
+      "friendsCount": 792,
+      "followersCount": 1015,
+      "listedCount": 16,
+      "statusesCount": 59014,
+      "twitterTimeZone": null,
+      "verified": false,
+      "utcOffset": null,
+      "preferredUsername": "amagickeagle999",
+      "languages": [
+        "en"
+      ],
+      "favoritesCount": 59553
+    },
+    "verb": "share",
+    "postedTime": "2016-04-01T00:00:19.000Z",
+    "generator": {
+      "displayName": "Twitter Web Client",
+      "link": "http://twitter.com"
+    },
+    "provider": {
+      "objectType": "service",
+      "displayName": "Twitter",
+      "link": "http://www.twitter.com"
+    },
+    "link": "http://twitter.com/amagickeagle999/statuses/715690217877835776",
+    "text": "RT @johndory49: \"Funding is important but there’s a lot more to it.\"\n-PM announcing the end of #Gonski if they're re-elected #auspol https:…",
+    "object": {
+      "id": "149715637044756635648",
+      "objectType": "activity",
+      "actor": {
+        "objectType": "person",
+        "id": "10243841884115",
+        "link": "http://www.twitter.com/johndory49",
+        "displayName": "#PutLibsLast‼️",
+        "postedTime": "2012-09-23T15:13:23.000Z",
+        "image": "https://pbs.twimg.com/profile_images/714428026226913281/RtnjgA2M_normal.jpg",
+        "summary": "I'm against ANYTHING which risks giving the #LNP more power at the next election. #PutLibsLast",
+        "links": [
+          {
+            "href": "https://radio.abc.net.au/programitem/pglx7LPeA7?play=true",
+            "rel": "me"
+          }
+        ],
+        "friendsCount": 9154,
+        "followersCount": 14974,
+        "listedCount": 220,
+        "statusesCount": 89241,
+        "twitterTimeZone": "Melbourne",
+        "verified": false,
+        "utcOffset": "39600",
+        "preferredUsername": "johndory49",
+        "languages": [
+          "en"
+        ],
+        "favoritesCount": 4820
+      },
+      "verb": "post",
+      "postedTime": "2016-03-31T20:29:02.000Z",
+      "generator": {
+        "displayName": "TweetDeck",
+        "link": "https://about.twitter.com/products/tweetdeck"
+      },
+      "provider": {
+        "objectType": "service",
+        "displayName": "Twitter",
+        "link": "http://www.twitter.com"
+      },
+      "link": "http://twitter.com/johndory49/statuses/715637044756635648",
+      "text": "\"Funding is important but there’s a lot more to it.\"\n-PM announcing the end of #Gonski if they're re-elected #auspol https://t.co/UfWeSDh5H6",
+      "object": {
+        "objectType": "note",
+        "id": "1345715637044756635648",
+        "summary": "\"Funding is important but there’s a lot more to it.\"\n-PM announcing the end of #Gonski if they're re-elected #auspol https://t.co/UfWeSDh5H6",
+        "link": "http://twitter.com/johndory49/statuses/715637044756635648",
+        "postedTime": "2016-03-31T20:29:02.000Z"
+      },
+      "favoritesCount": 13,
+      "twitter_entities": {
+        "hashtags": [
+          {
+            "text": "Gonski",
+            "indices": [
+              79,
+              86
+            ]
+          },
+          {
+            "text": "auspol",
+            "indices": [
+              109,
+              116
+            ]
+          }
+        ],
+        "urls": [],
+        "user_mentions": [],
+        "symbols": [],
+        "media": [
+          {
+            "id_str": "715636771942309888",
+            "indices": [
+              117,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/Ce5z2jvUIAAgmwV.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Ce5z2jvUIAAgmwV.jpg",
+            "url": "https://t.co/UfWeSDh5H6",
+            "display_url": "pic.twitter.com/UfWeSDh5H6",
+            "expanded_url": "http://twitter.com/johndory49/status/715637044756635648/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 683,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 227,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 400,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "twitter_extended_entities": {
+        "media": [
+          {
+            "id_str": "715636771942309888",
+            "indices": [
+              117,
+              140
+            ],
+            "media_url": "http://pbs.twimg.com/media/Ce5z2jvUIAAgmwV.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/Ce5z2jvUIAAgmwV.jpg",
+            "url": "https://t.co/UfWeSDh5H6",
+            "display_url": "pic.twitter.com/UfWeSDh5H6",
+            "expanded_url": "http://twitter.com/johndory49/status/715637044756635648/photo/1",
+            "type": "photo",
+            "sizes": {
+              "large": {
+                "w": 1024,
+                "h": 683,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 340,
+                "h": 227,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 600,
+                "h": 400,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "twitter_filter_level": "low",
+      "twitter_lang": "en"
+    },
+    "favoritesCount": 0,
+    "twitter_entities": {
+      "hashtags": [
+        {
+          "text": "Gonski",
+          "indices": [
+            95,
+            102
+          ]
+        },
+        {
+          "text": "auspol",
+          "indices": [
+            125,
+            132
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "screen_name": "johndory49",
+          "name": "#PutLibsLast‼️",
+          "id": 841884115,
+          "id_str": "841884115",
+          "indices": [
+            3,
+            14
+          ]
+        }
+      ],
+      "symbols": [],
+      "media": [
+        {
+          "id_str": "715636771942309888",
+          "indices": [
+            139,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ce5z2jvUIAAgmwV.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ce5z2jvUIAAgmwV.jpg",
+          "url": "https://t.co/UfWeSDh5H6",
+          "display_url": "pic.twitter.com/UfWeSDh5H6",
+          "expanded_url": "http://twitter.com/johndory49/status/715637044756635648/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1024,
+              "h": 683,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 227,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 400,
+              "resize": "fit"
+            }
+          },
+          "source_status_id_str": "715637044756635648",
+          "source_user_id": 841884115,
+          "source_user_id_str": "841884115"
+        }
+      ]
+    },
+    "twitter_extended_entities": {
+      "media": [
+        {
+          "id_str": "715636771942309888",
+          "indices": [
+            139,
+            140
+          ],
+          "media_url": "http://pbs.twimg.com/media/Ce5z2jvUIAAgmwV.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Ce5z2jvUIAAgmwV.jpg",
+          "url": "https://t.co/UfWeSDh5H6",
+          "display_url": "pic.twitter.com/UfWeSDh5H6",
+          "expanded_url": "http://twitter.com/johndory49/status/715637044756635648/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1024,
+              "h": 683,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 340,
+              "h": 227,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 600,
+              "h": 400,
+              "resize": "fit"
+            }
+          },
+          "source_status_id_str": "715637044756635648",
+          "source_user_id": 841884115,
+          "source_user_id_str": "841884115"
+        }
+      ]
+    },
+    "twitter_filter_level": "low",
+    "twitter_lang": "en",
+    "retweetCount": 44,
+    "gnip": {
+      "matching_rules": [
+        {
+          "value": "lang:en (#auspol OR #qanda OR \"Malcolm Turnbull\" OR \"Tony Abbott\" OR \"Bill Shorten\" OR \"Richard di Natale\" OR \"Tanya Plibersek\" OR \"Scott Morrison\" OR \"Christine Milne\")",
+          "tag": null
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/UfWeSDh5H6",
+          "expanded_url": "http://twitter.com/johndory49/status/715637044756635648/photo/1",
+          "expanded_status": 200
+        }
+      ],
+      "klout_score": 52,
+      "language": {
+        "value": "en"
+      }
+    }
+  }
+]
